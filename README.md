@@ -1,1 +1,3 @@
-# WeatherWebsite
+# Weather Website
+
+A simple web application that fetches and displays weather forecasts for a searched city or the user's current location using the OpenWeatherMap API. It uses the Geolocation API for retrieving the user's coordinates and reverse geocoding to get the city name. Users can view a 5-day weather forecast, including temperature, wind speed, and humidity. The app dynamically generates weather cards based on forecast data and updates the UI with the most recent weather details. Designed for simplicity and accuracy, with error handling for geolocation and API failures. [Link](https://baghrai-beshra.github.io/WeatherWebsite/)
